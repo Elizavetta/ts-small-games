@@ -1,0 +1,139 @@
+
+Game Character.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 123, 24
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+Eyebrow Left
+  rotate: false
+  xy: 208, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Eyebrow Right
+  rotate: false
+  xy: 248, 5
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 304, 86
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+Eyes for hurt and win
+  rotate: false
+  xy: 208, 30
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 17
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+Face on pupil
+  rotate: false
+  xy: 208, 72
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+Hand Left
+  rotate: true
+  xy: 382, 84
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+Hand Right
+  rotate: true
+  xy: 448, 82
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Hurt mouth
+  rotate: true
+  xy: 478, 7
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Leg Left
+  rotate: false
+  xy: 362, 48
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 448, 46
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+Lose mouth
+  rotate: false
+  xy: 123, 2
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 416, 41
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+Peace mouth
+  rotate: true
+  xy: 448, 2
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Pupil Left
+  rotate: true
+  xy: 157, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Pupil Right
+  rotate: true
+  xy: 157, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Waiting mouth
+  rotate: false
+  xy: 304, 59
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+Win mouth
+  rotate: false
+  xy: 289, 22
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1

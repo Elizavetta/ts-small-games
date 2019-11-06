@@ -1,0 +1,48 @@
+
+Turtle.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foot (left down)
+  rotate: false
+  xy: 139, 95
+  size: 32, 85
+  orig: 32, 85
+  offset: 0, 0
+  index: -1
+foot (left up)
+  rotate: false
+  xy: 2, 2
+  size: 99, 44
+  orig: 99, 44
+  offset: 0, 0
+  index: -1
+foot (right down)
+  rotate: false
+  xy: 173, 95
+  size: 32, 85
+  orig: 32, 85
+  offset: 0, 0
+  index: -1
+foot (right up)
+  rotate: false
+  xy: 139, 182
+  size: 99, 44
+  orig: 99, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 139, 54
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 2, 48
+  size: 135, 178
+  orig: 135, 178
+  offset: 0, 0
+  index: -1

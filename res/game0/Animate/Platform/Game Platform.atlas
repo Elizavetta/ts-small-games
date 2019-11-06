@@ -1,0 +1,90 @@
+
+Game Platform.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Platform 1 L
+  rotate: false
+  xy: 2, 5
+  size: 137, 76
+  orig: 137, 76
+  offset: 0, 0
+  index: -1
+Platform 1 R
+  rotate: false
+  xy: 833, 2
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+Platform 2 L
+  rotate: false
+  xy: 141, 5
+  size: 137, 76
+  orig: 137, 76
+  offset: 0, 0
+  index: -1
+Platform 2 R
+  rotate: false
+  xy: 1466, 5
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+Platform 3 L
+  rotate: false
+  xy: 558, 5
+  size: 136, 76
+  orig: 136, 76
+  offset: 0, 0
+  index: -1
+Platform 3 R
+  rotate: false
+  xy: 1091, 5
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+Platform 4 L
+  rotate: false
+  xy: 280, 5
+  size: 137, 76
+  orig: 137, 76
+  offset: 0, 0
+  index: -1
+Platform 4 R
+  rotate: false
+  xy: 962, 2
+  size: 127, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+Platform 5 L
+  rotate: false
+  xy: 696, 5
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+Platform 5 R
+  rotate: false
+  xy: 1216, 5
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+Platform 6 L
+  rotate: false
+  xy: 419, 5
+  size: 137, 76
+  orig: 137, 76
+  offset: 0, 0
+  index: -1
+Platform 6 R
+  rotate: false
+  xy: 1341, 5
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1

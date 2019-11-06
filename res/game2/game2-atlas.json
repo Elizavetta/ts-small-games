@@ -1,0 +1,62 @@
+{"frames": {
+
+"boost 1 in 3.png":
+{
+	"frame": {"x":1,"y":132,"w":176,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":179},
+	"sourceSize": {"w":176,"h":179}
+},
+"boost bound.png":
+{
+	"frame": {"x":179,"y":132,"w":176,"h":179},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":179},
+	"sourceSize": {"w":176,"h":179}
+},
+"boost speed.png":
+{
+	"frame": {"x":179,"y":310,"w":176,"h":179},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":179},
+	"sourceSize": {"w":176,"h":179}
+},
+"Neeo.png":
+{
+	"frame": {"x":1,"y":1,"w":360,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":129},
+	"sourceSize": {"w":360,"h":129}
+},
+"penguin.png":
+{
+	"frame": {"x":363,"y":1,"w":352,"h":130},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":130},
+	"sourceSize": {"w":352,"h":130}
+},
+"snowball.png":
+{
+	"frame": {"x":1,"y":355,"w":129,"h":128},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game2-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":494,"h":487},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:540e7f8bf42a3010c063e568206542ef:ab2fdda44386d73fc22cde6cacc2b750:911dca82138d89d41fee4c69c2a7ead1$"
+}
+}

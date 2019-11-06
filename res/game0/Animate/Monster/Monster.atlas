@@ -1,0 +1,69 @@
+
+Monster.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 95
+  size: 147, 150
+  orig: 147, 150
+  offset: 0, 0
+  index: -1
+Eye 1
+  rotate: false
+  xy: 2, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Eye 2
+  rotate: false
+  xy: 180, 86
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Feather
+  rotate: true
+  xy: 151, 132
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+Left leg
+  rotate: false
+  xy: 151, 97
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+Mount
+  rotate: false
+  xy: 151, 54
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+Mount for feather
+  rotate: true
+  xy: 151, 19
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Mouth 2
+  rotate: false
+  xy: 2, 13
+  size: 147, 80
+  orig: 147, 80
+  offset: 0, 0
+  index: -1
+Right leg
+  rotate: false
+  xy: 204, 97
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1

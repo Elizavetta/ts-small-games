@@ -1,0 +1,52 @@
+{"frames": {
+
+"arrow_btn.png":
+{
+	"frame": {"x":1,"y":1,"w":173,"h":177},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":177},
+	"sourceSize": {"w":173,"h":177}
+},
+"green.png":
+{
+	"frame": {"x":1,"y":756,"w":241,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":230},
+	"sourceSize": {"w":241,"h":230}
+},
+"purple.png":
+{
+	"frame": {"x":1,"y":562,"w":228,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":192},
+	"sourceSize": {"w":228,"h":192}
+},
+"red.png":
+{
+	"frame": {"x":1,"y":176,"w":192,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":191},
+	"sourceSize": {"w":192,"h":191}
+},
+"yellow.png":
+{
+	"frame": {"x":1,"y":369,"w":192,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":191},
+	"sourceSize": {"w":192,"h":191}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game5-atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":243,"h":987},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:539ec981f7dcb9397ca3906a22a31a24:b0a61d2a25e48eb0b019a91ac9c279a5:c57f24fc5d9599a58b8cf1237cfdca21$"
+}
+}
